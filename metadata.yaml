@@ -1,0 +1,25 @@
+_repo: Az-ut-a-revpart-fele-Klinikai-kepek_68339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Apáthy, István
+    gutenberg_agent_id: '54734'
+    url: http://www.gutenberg.org/2009/agents/54734
+description: ''
+gutenberg_issued: '2022-06-17'
+identifiers:
+  gutenberg: '68339'
+language: hu
+pgterms:marc905: 20220615232446apthy
+pgterms:marc906: '1885'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Athenaeum,1885.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Az út a révpart felé: Klinikai képek'
+url: http://www.gutenberg.org/ebooks/68339
