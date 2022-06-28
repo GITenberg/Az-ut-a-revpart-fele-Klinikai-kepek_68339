@@ -1,11 +1,16 @@
 _repo: Az-ut-a-revpart-fele-Klinikai-kepek_68339
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Apáthy, István
     gutenberg_agent_id: '54734'
     url: http://www.gutenberg.org/2009/agents/54734
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68339#Az-ut-a-revpart-fele-Klinikai-kepek
 gutenberg_issued: '2022-06-17'
 identifiers:
   gutenberg: '68339'
